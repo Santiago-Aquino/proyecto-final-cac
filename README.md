@@ -1,6 +1,6 @@
 # Proyecto Final - CaC Java 2023
 
-## ![Logo](/home/santi/Documentos/JAVA/tp_integrador_front/assets/img/codoacodo.png)
+## ![Logo](./assets/img/codoacodo.png)
 
 Hola mucho gusto! Mi nombre Santiago Aquino de la comision #23049 y
 vengo a mostrarles mi proyecto final del programa codo a codo. Es
@@ -21,7 +21,7 @@ Tomcat en la version 10.
 
 ## Captura del Proyecto
 
-![App Screenshot](/home/santi/Documentos/JAVA/captura-proyecto.png)
+![App Screenshot](./assets/img/captura-proyecto.png)
 
 - [Link al video del proyecto](https://www.youtube.com/watch?v=s8owFe2LzoQ)
 
